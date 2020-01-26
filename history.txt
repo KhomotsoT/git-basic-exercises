@@ -1,0 +1,88 @@
+    1  man sudo_root
+    2  ls
+    3  cd Desktop
+    4  cd ..
+    5  mkdir git-basics-exercises
+    6  cd git-basics-exercises
+    7  ls -a
+    8  git status
+    9  sudo apt install git
+   10  git status
+   11  sudo apt install git
+   12  sudo apt-get install gdebi
+   13  sudo apt-get dist-upgrade
+   14  git status
+   15  sudo apt install git
+   16  sudo apt-get install git
+   17  sudo apt-get -f dist-upgrade
+   18  sudo apt install liberror-perl
+   19  sudo apt install perl
+   20  sudo apt install perl-base
+   21  sudo apt install perl-base=\*
+   22  apt-get install git
+   23  sudo apt-get update
+   24  sudo apt install git
+   25  cd git-basic-exercises
+   26  ls
+   27  cd git-basics-exercises
+   28  cd git-basic-exercises
+   29  ls -a
+   30  git status
+   31  touch README.md
+   32  ls -a
+   33  git status
+   34  cd git-basic-exercises
+   35  ls
+   36  git init
+   37  git status
+   38  git add README.md
+   39  ls -a
+   40  git status
+   41  git log
+   42  git commit -m "initial commit"
+   43  git config -- user.mail khomotso.talane@umuzi.org
+   44  git commit -m "initial commit"
+   45  git config -- Khomotso
+   46  git fetch
+   47  git reset --hard origin/master
+   48  git reset --hard origin
+   49  git config --global user.name "KhomotsoT"
+   50  git init
+   51  git config --global user.name "KhomotsoT"
+   52  git status
+   53  cd git-basic-exercises
+   54  git init
+   55  ls -a
+   56  git commit -m "initial commit"
+   57  git config --global user.name "KhomotsoT"
+   58  git commit -m "initial commit"
+   59  git config user.name "KhomotsoT"
+   60  git config --global user.email "khomotso.talane@umuzi.org"
+   61  git commit -m "initial commit"
+   62  git log
+   63  nano README.md
+   64  git add README.md
+   65  git commit -m "second commit"
+   66  nano README.md
+   67  git commit -m "third commit"
+   68  nano README.md
+   69  git add README.md
+   70  git commit -m "third commit"
+   71  git log
+   72  git checkout 97d009348918488d6ee5ffb1c5bfa4b5c5ad77a7
+   73  cat README.md
+   74  git checkout master
+   75  cat README.md
+   76  git branch
+   77  git branch milkshake-flavours
+   78  git branch
+   79  git checkout milkshake-flavours
+   80  nano milkshakes.md
+   81  git add milkshakes.md
+   82  git commit -m "added initial flavours"
+   83  git log
+   84  git checkout master
+   85  git branch history
+   86  git checkout history
+   87  git log
+   88  history > history.txt
